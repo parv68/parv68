@@ -2,7 +2,7 @@
 
 ## Frontend Developer | BCA Student
 
-### Welcome to my GitHub profile! I'm currently pursuing my Bachelor of Computer Application (BCA) and passionate about frontend development. I have experience in HTML, CSS, JavaScript, and jQuery, Tailwind CCSS and I love working on web projects. Feel free to check out my repositories and projects!
+### Welcome to my GitHub profile! I'm currently pursuing my Bachelor of Computer Application (BCA) and passionate about frontend development. I have experience in HTML, CSS, JavaScript, jQuery, Tailwind CCSS and love working on web projects. Feel free to check out my repositories and projects!
 #
 
 ## 🚀 Skills & Technologies
