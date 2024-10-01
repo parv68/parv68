@@ -8,7 +8,7 @@
 ## 🚀 Skills & Technologies
 
 ### Frontend Development
-![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,tailwindcss,bootstrap,github,git)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,jquery,tailwindcss,bootstrap,github,git)
 #
 
 ## 💻 Projects
