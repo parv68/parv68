@@ -27,11 +27,16 @@
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=parv68&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parv68&layout=compact&theme=tokyonight)
+
 ![GitHub Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=parv68&theme=react-dark&hide_border=true&area=true)
+
 ![GitHub Streak Stats](https://streak-stats.demolab.com?user=parv68&theme=radical&hide_border=true)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=parv68&theme=algolia)
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=parv68-wakatime-parv68&theme=radical)
 
 ![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parv68&theme=radical)
 
