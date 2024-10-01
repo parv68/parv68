@@ -36,7 +36,10 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=parv68&theme=algolia)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=parv68-wakatime-parv68&theme=radical)
+## ⏳ WakaTime Stats
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=parv68&theme=radical)
+
 
 ![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parv68&theme=radical)
 
