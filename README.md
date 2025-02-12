@@ -19,9 +19,7 @@
 
 ### Weather web-app:[https://github.com/parv68/weather-app] In this project I have created weather web-app using HTML, CSS and JAVASCRIPT and fetch weather API.
 
-### Age-Calculator:[https://github.com/parv68/Age-calculator1] In this project I have created a age-calculator where you can calculate your age by entering your date of birth and then you will get the exact days, months and years.
-
-### BMI-Calculaotr: [https://github.com/parv68/mass-calculator] In this project I have created a age-calculator where you can calculate your BMI according your height and weight and you will get your BMI.
+### PassOP:[] In this project I have create a password manager using MERN Stack where I have used React and TailwindCSS for Frontend and Express.js for Backend and MongoDB for the database.
 
 #
 ## 📊 GitHub Stats
