@@ -1,14 +1,14 @@
 # Hi, I'm Parv! 👋
 
-## Frontend Developer | BCA Student
+## Full Stack Developer | BCA Student
 
-### Welcome to my GitHub profile! I'm pursuing my Bachelor of Computer Application (BCA) and am passionate about frontend development. I have experience in HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, and TailwindCSS and love working on web projects. Feel free to check out my repositories and projects!
+### Welcome to my GitHub profile! I'm pursuing my Bachelor of Computer Application (BCA) and am passionate about frontend development. I have experience in HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, PostgreSQL and TailwindCSS and love working on web projects. Feel free to check out my repositories and projects!
 #
 
 ## 🚀 Skills & Technologies
 
 ### Frontend Development
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,bootstrap,github,git,nodejs,express,mongodb)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,bootstrap,github,git,nodejs,express,MongoDB,postgresql)
 #
 
 ## 💻 Projects
