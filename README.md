@@ -8,7 +8,7 @@
 ## 🚀 Skills & Technologies
 
 ### Full Stack Development
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,bootstrap,github,git,nodejs,express,mongodb,postgresql)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,bootstrap,github,git,nodejs,express,mongodb,PostgreSQL,docker,aws)
 #
 
 ## 💻 Projects
