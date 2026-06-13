@@ -120,4 +120,3 @@ A cross-platform steganography app that hides any file (PDF, ZIP, DOCX) inside a
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:parvruhil68@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parv-ruhil-429659290/)
 
-**Portfolio**: [parv68.github.io/Portfolio](https://parv68.github.io/Portfolio/)
