@@ -1,7 +1,9 @@
-# Hi, I'm Parv! 👋
-## Systems Engineer & Full Stack Developer | BCA Student
+# Building Local-First Infrastructure for Developers
+Creator of DevBoxOS, VaultSync, Aegis, and StegaShare.
+Focused on Rust, Go, TypeScript, and production-grade developer tooling.
+## Systems Engineer & Full Stack Developer
 
-I'm the devt who builds **production-grade open-source infrastructure** — embedded runtimes, sync engines, authorization systems, and developer tools — mostly in **Rust**, **Go**, and **TypeScript**. When I'm not designing systems, I'm building full-stack web apps with the MERN stack.
+I build **production-grade open-source infrastructure** — embedded runtimes, sync engines, authorization systems, and developer tools — mostly in **Rust**, **Go**, and **TypeScript**. When I'm not designing systems, I'm building full-stack web apps with the MERN stack.
 
 ---
 
@@ -29,24 +31,26 @@ I'm the devt who builds **production-grade open-source infrastructure** — embe
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Linux](https://skillicons.dev/icons?i=linux)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
 ---
 
 ## 🏗️ Open Source Projects
 
-### 🔐 [Aegis](https://github.com/parv68/AEGIS) — Embedded ReBAC Authorization Runtime
-> *Authorization should feel like a library, not infrastructure.*
 
-An embedded, relationship-based authorization (ReBAC) engine inspired by Google Zanzibar and SpiceDB — but built to run **inside your application process** with zero separate infrastructure. Think SQLite, but for permissions.
+### 🌌 [DevBoxOS](https://github.com/parv68/DevBoxOS) — Universal Development Sandbox
+> *Spin up fully configured, reproducible development environments with a single command.*
 
-- **Rust core** with NAPI (Node.js), PyO3 (Python), and CGo (Go) bindings
-- Recursive graph traversal with cycle detection and parallel sibling evaluation
-- YAML-defined permission schemas with hot-reload and version tracking
-- Revision-based snapshot isolation — every mutation produces a monotonic revision token
-- SQLite (WAL), PostgreSQL, MySQL, and RocksDB storage backends
-- Full audit trail, explain API, GDPR compliance, multi-tenancy
+A local-first dev environment manager. Define your entire stack in `devbox.yml`, run `devbox start`, and everything is wired up — dependency resolution, health checks, hot reload, snapshots, and encrypted secrets.
 
-`Rust` `TypeScript` `Go` `Python` `ReBAC` `Authorization` `Embedded Systems`
+- **Go + gRPC** architecture: CLI ↔ Engine daemon ↔ Docker API
+- Auto-detects Node, Go, Rust, Python, Java, Ruby, PHP, PostgreSQL, MySQL, Redis, MongoDB
+- **Encrypted secrets** via `age` (X25519 + ChaCha20-Poly1305)
+- **Snapshots**: save, export, import, and restore full environment state
+- Docker Compose import/export, CI workflow generation, real-time resource monitoring
+- 16 releases shipped; cross-platform (Windows, macOS, Linux)
+
+`Go` `Docker` `gRPC` `DevTools` `CLI` `Infrastructure`
 
 ---
 
@@ -65,19 +69,20 @@ An embedded sync engine that makes apps work **instantly offline**, sync automat
 
 ---
 
-### 🌌 [DevBoxOS](https://github.com/parv68/DevBoxOS) — Universal Development Sandbox
-> *Spin up fully configured, reproducible development environments with a single command.*
+### 🔐 [Aegis](https://github.com/parv68/AEGIS) — Embedded ReBAC Authorization Runtime
+> *Authorization should feel like a library, not infrastructure.*
 
-A local-first dev environment manager. Define your entire stack in `devbox.yml`, run `devbox start`, and everything is wired up — dependency resolution, health checks, hot reload, snapshots, and encrypted secrets.
+An embedded, relationship-based authorization (ReBAC) engine inspired by Google Zanzibar and SpiceDB — but built to run **inside your application process** with zero separate infrastructure. Think SQLite, but for permissions.
 
-- **Go + gRPC** architecture: CLI ↔ Engine daemon ↔ Docker API
-- Auto-detects Node, Go, Rust, Python, Java, Ruby, PHP, PostgreSQL, MySQL, Redis, MongoDB
-- **Encrypted secrets** via `age` (X25519 + ChaCha20-Poly1305)
-- **Snapshots**: save, export, import, and restore full environment state
-- Docker Compose import/export, CI workflow generation, real-time resource monitoring
-- 16 releases shipped; cross-platform (Windows, macOS, Linux)
+- **Rust core** with NAPI (Node.js), PyO3 (Python), and CGo (Go) bindings
+- Recursive graph traversal with cycle detection and parallel sibling evaluation
+- YAML-defined permission schemas with hot-reload and version tracking
+- Revision-based snapshot isolation — every mutation produces a monotonic revision token
+- SQLite (WAL), PostgreSQL, MySQL, and RocksDB storage backends
+- Full audit trail, explain API, GDPR compliance, multi-tenancy
 
-`Go` `Docker` `gRPC` `DevTools` `CLI` `Infrastructure`
+`Rust` `TypeScript` `Go` `Python` `ReBAC` `Authorization` `Embedded Systems`
+
 
 ---
 
@@ -106,7 +111,6 @@ A cross-platform steganography app that hides any file (PDF, ZIP, DOCX) inside a
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=parv68&theme=algolia)
 
 ## ⏳ WakaTime Stats
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=parv68&theme=radical)
 ![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parv68&theme=radical)
 
 ---
