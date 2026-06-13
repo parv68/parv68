@@ -108,7 +108,6 @@ A cross-platform steganography app that hides any file (PDF, ZIP, DOCX) inside a
 
 ![GitHub Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=parv68&theme=react-dark&hide_border=true&area=true)
 ![GitHub Streak Stats](https://streak-stats.demolab.com?user=parv68&theme=radical&hide_border=true)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=parv68&theme=algolia)
 
 ## ⏳ WakaTime Stats
 ![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parv68&theme=radical)
